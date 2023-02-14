@@ -25,7 +25,6 @@ public class TestJClash {
         for (int i = 0; i <arrayList.size() ; i++) {
             if (arrayList.size()>(a*a)){
                 System.out.print(i+ "---"+ arrayList.get(i)+"\t\t\t");
-
                 a++;
             }else {
                 System.out.println();
